@@ -66,3 +66,8 @@ Hence it is a binary classification model, Accuracy and loss are recorded and vi
 ## conclusion
 
 The final model proves to be far more accurate than the benchmark model. The benchmark model, run on the same data for the same number of epochs, shows an accuracy of approximately 64%, while the final model has an accuracy of approximately 97%. This proves to be a much more robust and effective model for depression prediction and it appears that this solution is significant enough to have solved the difficulty of effectively analyzing Tweets for depression.
+
+### For more information get into my article on medium
+
+https://medium.com/swlh/detecting-depression-in-social-media-via-twitter-usage-2d8f3df9b313
+
