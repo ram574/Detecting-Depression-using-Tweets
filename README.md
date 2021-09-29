@@ -1,7 +1,5 @@
 # Welcome !
 
-## This repo is a case study given by Galeto Company which is in Sweden !
-
 ### Hi there, I'm ram - Data Scientist [codeLOVEr] 
 
 * [https://tulasiram-portfolio.netlify.app] 👋
