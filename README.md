@@ -2,9 +2,7 @@
 
 ### Hi there, I'm ram - Data Scientist [codeLOVEr] 
 
-* Know more about me 
-
-**[portfolio](https://tulasiram-portfolio.netlify.app) 👋**
+* Know more about me [** Portfolio **](https://tulasiram-portfolio.netlify.app) 👋
 
 
 ## I'm a Data Science, Machine Learning, NLP, Deep Learning, Artificial Intelligence Enthusiast!!
