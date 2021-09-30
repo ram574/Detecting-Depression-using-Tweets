@@ -15,14 +15,10 @@
 
 ### Connect with me:
 
-### [linkedin]
-* [https://www.linkedin.com/in/tulasiram574]
-### [Medium]
-* [https://www.tulasiram574.medium.com]
-### [Skype]
-* [https://join.skype.com/invite/m73hqlTWoETf]
-### [Instagram]
-* [https://www.instagram.com/ram_lucky574/]
+* Let's stay connected [linkedin](https://www.linkedin.com/in/tulasiram574)
+* Read my articles [Medium](https://www.tulasiram574.medium.com)
+* For Introducing [Skype](https://join.skype.com/invite/m73hqlTWoETf)
+* Let's get Connect [Instagram](https://www.instagram.com/ram_lucky574/)
 
 
 # Bussiness Objective
