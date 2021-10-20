@@ -1,6 +1,6 @@
 # Welcome !
 
-### Hi there, I'm ram - Data Scientist [codeLOVEr] 
+### Hi there, I'm tulasi ram - Data Scientist [codeLOVEr] 
 
 * Know more about me [** Portfolio **](https://tulasiram-portfolio.netlify.app) 👋
 
